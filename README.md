@@ -34,11 +34,11 @@
 <!-- ![Unreal](https://img.shields.io/badge/-Unreal-000000?style=flat&logo=unreal-engine) -->
 <!-- ![flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter&logoColor=white&logoColor=0052CC) -->
 ![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase&logoColor=61DAFB)
-![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=microsoft-azure&logoColor=0769AD)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazon-aws&logoColor=F05032)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
-![JQuery](https://img.shields.io/badge/-JQuery-000000?style=flat&logo=svelte&logoColor=F05032)
+![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 
 
