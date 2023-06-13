@@ -24,13 +24,8 @@
 <!-- ![net](https://img.shields.io/badge/-.NET-000000?style=flat&logo=.net) -->
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-<!-- ![mssql](https://img.shields.io/badge/-MsSQL-000000?style=flat&logo=microsoft-sql-server&logoColor=61DAFB) -->
-<!-- ![Redis](https://img.shields.io/badge/-Redis-000000?style=flat&logo=redis&logoColor=DC382D) -->
-<!-- ![MAUI](https://img.shields.io/badge/-MAUI-000000?style=flat&logo=xamarin&logoColor=61DAFB) -->
-<!-- ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity) -->
-<!-- ![Unreal](https://img.shields.io/badge/-Unreal-000000?style=flat&logo=unreal-engine) -->
-<!-- ![flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter&logoColor=white&logoColor=0052CC) -->
-![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black)
+
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
