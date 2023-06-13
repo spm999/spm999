@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23D88AFF&lines=I'm+a+Competitive+Programmer.;I'm+a+full+stack+Web+Developer.;I'm+a+Machine+Learning+Enthusiast.)](https://git.io/typing-svg)
 
 - :muscle: Bachelor's in Computer Science & Engineering.
-- :Water: Coffee lover, turning it into code.
+<!-- - :Water: Coffee lover, turning it into code. -->
 - :dart: Wasting my time to save other people's time.
 
 **Some of the languages I have used**
@@ -34,11 +34,11 @@
 <!-- ![Unreal](https://img.shields.io/badge/-Unreal-000000?style=flat&logo=unreal-engine) -->
 <!-- ![flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter&logoColor=white&logoColor=0052CC) -->
 ![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase&logoColor=61DAFB)
-![Django](https://img.shields.io/badge/-Azure-000000?style=flat&logo=microsoft-azure&logoColor=0769AD)
+![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=microsoft-azure&logoColor=0769AD)
 ![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazon-aws&logoColor=F05032)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
-![JQuery](https://img.shields.io/badge/-Svelte-000000?style=flat&logo=svelte&logoColor=F05032)
+![JQuery](https://img.shields.io/badge/-JQuery-000000?style=flat&logo=svelte&logoColor=F05032)
 ![git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 
 
