@@ -20,6 +20,7 @@
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=kotlin) -->
 
 **Some of the technologies I have worked with**
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black)
