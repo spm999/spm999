@@ -48,7 +48,7 @@ Contact with me: <br>
 
 <table>
   <tr>
-    <td valign="center">
+<!--     <td valign="center"> -->
       <a href="https://suryaportfoliosite.netlify.app">
         <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="My Portfolio"/></a> <br/>
         <img src="https://komarev.com/ghpvc/?username=spm999&&style=flat-square" align="center" />
@@ -69,9 +69,9 @@ Contact with me: <br>
         <br />
         <h3>X Community</h3>
         <a href="https://twitter.com/dev_today99">
-          <img src="https://img.shields.io/twitter/follow/DunsinWebDev?color=0F182A&logo=twitter&style=for-the-badge" alt="Twitter Follow Badge"/></a>
+          <img src="https://img.shields.io/twitter/follow/Suryap?color=0F182A&logo=twitter&style=for-the-badge" alt="Twitter Follow Badge"/></a>
        </p>
-    </td>
+<!--     </td> -->
     <td>
 <!--       <a href="https://app.daily.dev/spm999"><img src="https://api.daily.dev/devcards/081386d99cd3447ea5eed27f914a8f78.png?r=smv" width="400" alt="Surya's Dev Card"/></a> -->
     </td>
