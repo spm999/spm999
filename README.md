@@ -53,6 +53,17 @@ Contact with me: <br>
         <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="My Portfolio"/></a> <br/>
         <img src="https://komarev.com/ghpvc/?username=Dun-sin&&style=flat-square" align="center" />
       <p>
+      ### Hi there 👋 
+  My name is 
+  <b>[Surya Prakash Maurya](https://suryaportfoliosite.netlify.app/)</b>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23D88AFF&lines=I'm+a+Competitive+Programmer.;I'm+a+full+stack+Web+Developer.;I'm+a+Machine+Learning+Enthusiast.)](https://git.io/typing-svg)
+
+- :muscle: Bachelor's in Computer Science & Engineering.
+<!-- - :Water: Coffee lover, turning it into code. -->
+- :dart: Wasting my time to save other people's time.
+
+        
         <h3>Hello👋🏾</h3>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23D88AFF&lines=I'm+a+Competitive+Programmer.;I'm+a+full+stack+Web+Developer.;I'm+a+Machine+Learning+Enthusiast.)](https://git.io/typing-svg)
 
