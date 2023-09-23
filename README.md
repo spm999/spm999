@@ -49,34 +49,31 @@ Contact with me: <br>
 <table>
   <tr>
     <td valign="center">
-      <a href="https://dunsin.vercel.app/">
+      <a href="https://suryaportfoliosite.netlify.app">
         <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="My Portfolio"/></a> <br/>
-        <img src="https://komarev.com/ghpvc/?username=Dun-sin&&style=flat-square" align="center" />
+        <img src="https://komarev.com/ghpvc/?username=spm999&&style=flat-square" align="center" />
       <p>
         <h3>Hello👋🏾</h3>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23D88AFF&lines=I'm+a+Competitive+Programmer.;I'm+a+full+stack+Web+Developer.;I'm+a+Machine+Learning+Enthusiast.)](https://git.io/typing-svg)
         👀 &nbsp;I love to build projects, make life easier and fun with code.
         <br/>
         🚀 &nbsp;I love contributing to Opensource Projects
         <br/>
-        🧑🏽‍💻 &nbsp;Reach out to me through twitter or the contact form in <a href="https://dunsin.vercel.app/">my portfolio</a>
+        🧑🏽‍💻 &nbsp;Reach out to me through twitter or the contact form in <a href="https://suryaportfoliosite.netlify.app">my portfolio</a>
         <br />
         💞️ &nbsp;Follow me on github to stay tuned on my amazing projects.
         <br/>
         <br />
         <h3>Show your Support🤝🏽</h3>
-        <a href="https://www.buymeacoffee.com/dunsincodes"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="220" alt="support me by buying me a coffee" /> <a/>
+        <a href="https://www.buymeacoffee.com/spm999"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="220" alt="support me by buying me a coffee" /> <a/>
         <br/>
         <br />
-        <h3>Twitter & Discord Community</h3>
-        <a href="https://discord.gg/kcFraw3nhz"><img src="https://dcbadge.vercel.app/api/server/kcFraw3nhz" alt="Realist discord server"/></a>
-        <br/>
-        <a href="https://twitter.com/dunsincodes">
+        <h3>X Community</h3>
+        <a href="https://twitter.com/dev_today99">
           <img src="https://img.shields.io/twitter/follow/DunsinWebDev?color=0F182A&logo=twitter&style=for-the-badge" alt="Twitter Follow Badge"/></a>
        </p>
     </td>
     <td>
-      <a href="https://app.daily.dev/dunsinCodes"><img src="https://api.daily.dev/devcards/081386d99cd3447ea5eed27f914a8f78.png?r=smv" width="400" alt="Dunsin's Dev Card"/></a>
+<!--       <a href="https://app.daily.dev/dunsinCodes"><img src="https://api.daily.dev/devcards/081386d99cd3447ea5eed27f914a8f78.png?r=smv" width="400" alt="Dunsin's Dev Card"/></a> -->
     </td>
   </tr>
 </table>
