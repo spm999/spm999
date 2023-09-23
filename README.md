@@ -73,7 +73,7 @@ Contact with me: <br>
        </p>
     </td>
     <td>
-<!--       <a href="https://app.daily.dev/dunsinCodes"><img src="https://api.daily.dev/devcards/081386d99cd3447ea5eed27f914a8f78.png?r=smv" width="400" alt="Dunsin's Dev Card"/></a> -->
+<!--       <a href="https://app.daily.dev/spm999"><img src="https://api.daily.dev/devcards/081386d99cd3447ea5eed27f914a8f78.png?r=smv" width="400" alt="Surya's Dev Card"/></a> -->
     </td>
   </tr>
 </table>
