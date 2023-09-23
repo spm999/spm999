@@ -56,7 +56,7 @@ Contact with me: <br>
         <h3>Hello👋🏾</h3>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23D88AFF&lines=I'm+a+Competitive+Programmer.;I'm+a+full+stack+Web+Developer.;I'm+a+Machine+Learning+Enthusiast.)](https://git.io/typing-svg)
 
-
+- :muscle: Bachelor's in Computer Science & Engineering.
         <br>
         👀 &nbsp;I love to build projects, make life easier and fun with code.
         <br/>
