@@ -100,6 +100,7 @@ Contact with me: <br>
 <table>
   <tr>
     <td>
+      ![Surya's GitHub stats](https://github-readme-stats.vercel.app/api?username=spm999&show_icons=true&theme=transparent)
     <a href="https://www.github.com/spm999">
         <img src="https://api.vaunt.dev/v1/github/entities/spm999/contributions?format=svg&private=true" width="350" title="Includes public and private contributions" />
     </a>
