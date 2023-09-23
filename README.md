@@ -100,10 +100,12 @@ Contact with me: <br>
 <table>
   <tr>
     <td>
-      ![Surya's GitHub stats](https://github-readme-stats.vercel.app/api?username=spm999&show_icons=true&theme=transparent)
-    <a href="https://www.github.com/spm999">
+<!--       ![Surya's GitHub stats](https://github-readme-stats.vercel.app/api?username=spm999&show_icons=true&theme=transparent) -->
+<p>
+    <a href="https://vaunt.dev">
         <img src="https://api.vaunt.dev/v1/github/entities/spm999/contributions?format=svg&private=true" width="350" title="Includes public and private contributions" />
     </a>
+</p>
     </td>
     <td>
       <a href="https://www.github.com/Dun-sin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Dun-sin&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
