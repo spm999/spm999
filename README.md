@@ -54,7 +54,9 @@ Contact with me: <br>
         <img src="https://komarev.com/ghpvc/?username=Dun-sin&&style=flat-square" align="center" />
       <p>
         <h3>Hello👋🏾</h3>
-        [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23D88AFF&lines=I'm+a+Competitive+Programmer.;I'm+a+full+stack+Web+Developer.;I'm+a+Machine+Learning+Enthusiast.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23D88AFF&lines=I'm+a+Competitive+Programmer.;I'm+a+full+stack+Web+Developer.;I'm+a+Machine+Learning+Enthusiast.)](https://git.io/typing-svg)
+
+
         <br>
         👀 &nbsp;I love to build projects, make life easier and fun with code.
         <br/>
