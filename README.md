@@ -83,15 +83,15 @@ Contact with me: <br>
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/Dun-sin/Whisper"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dun-sin&repo=Whisper" /></a>
+      <a href="https://github.com/Dun-sin/Whisper"><img src="https://github-readme-stats.vercel.app/api/pin/?username=spm999&repo=Whisper" /></a>
     </td>
     <td>
-      <a href="https://github.com/Dun-sin/Code-Magic"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dun-sin&repo=Code-Magic" /></a>
+      <a href="https://github.com/spm999/React_dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=spm999&repo=Code-Magic" /></a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/Dun-sin/Threstagram"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dun-sin&repo=Threstagram" /></a>
+      <a href="https://github.com/spm999/kidfriendly"><img src="https://github-readme-stats.vercel.app/api/pin/?username=spm999&repo=Threstagram" /></a>
     </td>
   </tr>
 </table>
