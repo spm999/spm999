@@ -39,6 +39,34 @@
 
 
 
+## 👥 Connect With Me
+<p>
+<a href="https://linkedin.com/in/spm999"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+</p>
+
+## 🌟 Github Badges
+<p>
+<img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif" height="24px">
+<img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" height="24px">
+</p>
+
+## 🏆 GitHub Trophies
+
+<p><img src="https://github-profile-trophy.vercel.app/?username=spm999">
+</p>
+
+## 📊 Github Status
+
+<p><img src="https://activity-graph.herokuapp.com/graph?username=spm999"><p>
+
+<p><img src="https://github-readme-stats.vercel.app/api?username=spm999&show_icons=true"><p>
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spm999&layout=compact"><p>
+
+<p><img src="https://visitcount.itsvg.in/api?id=spm999&label=Profile%20Views&color=12&icon=5&pretty=true"><p>
+
+
+
 Contact with me: <br>
 <br>
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/suryap_999_1) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/spm999) [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@dev_today99) 
