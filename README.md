@@ -68,6 +68,9 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=spm999&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spm999&theme=tokyonight)
+
+
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=spm999&show_icons=true&locale=en&layout=compact" alt="spm999" /></p>
