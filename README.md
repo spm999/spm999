@@ -1,5 +1,8 @@
 <h1 >Hi 👋, I'm Surya Prakash Maurya</h1>
 
+<p align="center"><img src="https://drive.google.com/file/d/1FKutVaUiDu8FQoBEq4rosv-03qDTcxtp/view?usp=drive_link"></p>
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23D88AFF&lines=I'm+a+Competitive+Programmer.;I'm+a+full+stack+Web+Developer.;I'm+a+Machine+Learning+Enthusiast.)](https://git.io/typing-svg)
 - :muscle: Bachelor's in Computer Science & Engineering.<br>
 - :coffee: Coffee lover, turning it into code.<br>
