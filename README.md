@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/suryap_999_1" target="blank"><img src="https://img.shields.io/twitter/follow/suryap_999_1?logo=twitter&style=for-the-badge" alt="suryap_999_1" /></a> </p>
 
-- 👨‍💻 Visit <b>[my portfolio](https://suryaportfoliosite.netlify.app/)</b>
+- 👨‍💻 Visit my portfolio <b>[🙂](https://suryaportfoliosite.netlify.app/)</b>
 
 - 💬 Ask me about **React**
 
