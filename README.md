@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spm999&label=Profile%20views&color=0e75b6&style=flat" alt="spm999" /> </p>
 
-<p align="left"> <a href="https://twitter.com/suryap_999_1" target="blank"><img src="https://img.shields.io/twitter/follow/suryap_999_1?logo=twitter&style=for-the-badge" alt="suryap_999_1" /></a> </p>
-
 - :muscle: Bachelor's in Computer Science & Engineering.<br>
 - :coffee: Coffee lover, turning it into code.<br>
 - 👨‍💻 Visit my portfolio website <b>[🙂](https://suryaportfoliosite.netlify.app/)</b>
@@ -33,6 +31,8 @@
 
 
 
-<p><a href="https://www.buymeacoffee.com/spm999"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="spm999" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/spm999"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="spm999" /></a></p><br><be>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=spm999&label=Profile%20views&color=0e75b6&style=flat" alt="spm999" /> </p>
+
 
 
