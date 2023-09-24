@@ -66,9 +66,9 @@
 
 <h3 align="left">Support:</h3>
 <tr> 
+  
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&show_icons=true&theme=tokyonight)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spm999&theme=tokyonight)
-
 </tr>
 
 
