@@ -6,7 +6,7 @@
 - 👨‍💻 Visit my portfolio website <b>[🙂](https://suryaportfoliosite.netlify.app/)</b>
 
 - 💬 Ask me about **Web technologies**
-- ![](https://komarev.com/ghpvc/?username=arjyo851)
+- ![](https://komarev.com/ghpvc/?username=spm999)
 
 
 <tr> 
