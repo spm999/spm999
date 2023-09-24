@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Surya Prakash Maurya</h1>
-<h3 align="center">Passionate full stack developer</h3>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23D88AFF&lines=I'm+a+Competitive+Programmer.;I'm+a+full+stack+Web+Developer.;I'm+a+Machine+Learning+Enthusiast.)](https://git.io/typing-svg)
 
 
