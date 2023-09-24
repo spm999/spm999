@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Surya Prakash Maurya</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23D88AFF&lines=I'm+a+Competitive+Programmer.;I'm+a+full+stack+Web+Developer.;I'm+a+Machine+Learning+Enthusiast.)](https://git.io/typing-svg)
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=spm999&label=Profile%20views&color=0e75b6&style=flat" alt="spm999" /> </p>
-
 - :muscle: Bachelor's in Computer Science & Engineering.<br>
 - :coffee: Coffee lover, turning it into code.<br>
 - 👨‍💻 Visit my portfolio website <b>[🙂](https://suryaportfoliosite.netlify.app/)</b>
@@ -32,7 +28,6 @@
 
 
 <p><a href="https://www.buymeacoffee.com/spm999"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="spm999" /></a></p><br><be>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=spm999&label=Profile%20views&color=0e75b6&style=flat" alt="spm999" /> </p>
 
 
 
