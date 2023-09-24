@@ -72,13 +72,6 @@
 
 
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=spm999&show_icons=true&locale=en&layout=compact" alt="spm999" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spm999&show_icons=true&locale=en" alt="spm999" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spm999&" alt="spm999" /></p>
-
-<p><a href="https://www.buymeacoffee.com/spm999"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="spm999" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/spm999"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="spm999" /></a></p><br><br>
 
 
