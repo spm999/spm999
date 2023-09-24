@@ -39,7 +39,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Surya Prakash Maurya</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">Passionate full stack developer</h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23D88AFF&lines=I'm+a+Competitive+Programmer.;I'm+a+full+stack+Web+Developer.;I'm+a+Machine+Learning+Enthusiast.)](https://git.io/typing-svg)
 
@@ -66,7 +66,7 @@
 
 <h3 align="left">Support:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spm999&show_icons=true&locale=en&layout=compact" alt="spm999" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=spm999&show_icons=true&locale=en&layout=compact" alt="spm999" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spm999&show_icons=true&locale=en" alt="spm999" /></p>
 
