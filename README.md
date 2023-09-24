@@ -1,6 +1,6 @@
 <h1 >Hi 👋, I'm Surya Prakash Maurya</h1>
 
-<p align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAaiygGvP7mem_5VNJJu4k3FAf-UIxDX3yXA&usqp=CAU" width="400"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/77008381/145186736-1d1a4508-60a3-4169-acb7-ede41a7c85d6.png"></p>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23D88AFF&lines=I'm+a+Competitive+Programmer.;I'm+a+full+stack+Web+Developer.;I'm+a+Machine+Learning+Enthusiast.)](https://git.io/typing-svg)
