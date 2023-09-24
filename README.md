@@ -27,7 +27,3 @@
 
 
 
-<p><a href="https://www.buymeacoffee.com/spm999"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="spm999" /></a></p><br><be>
-
-
-
