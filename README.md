@@ -48,7 +48,7 @@
 
 <p align="left"> <a href="https://twitter.com/suryap_999_1" target="blank"><img src="https://img.shields.io/twitter/follow/suryap_999_1?logo=twitter&style=for-the-badge" alt="suryap_999_1" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://suryaportfoliosite.netlify.app](https://suryaportfoliosite.netlify.app)
+- 👨‍💻 Visit my portfolio [https://suryaportfoliosite.netlify.app](https://suryaportfoliosite.netlify.app)
 
 - 💬 Ask me about **React**
 
