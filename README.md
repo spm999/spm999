@@ -15,8 +15,7 @@
 <tr> 
   
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=spm999&show_icons=true&theme=tokyonight)
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=spm999)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=spm999&theme=tokyonight-duo&border_radius=5)](https://git.io/streak-stats)
 </tr>
 
 
