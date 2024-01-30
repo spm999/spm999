@@ -58,6 +58,6 @@
 <a href="https://www.youtube.com/c/dev_today99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dev_today99" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/spm999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="spm999" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/spm999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="spm999" height="30" width="40" /></a>
-<a href="https://medium.com/@developerstoday99" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" alt="spm999" height="30" width="40" /></a>
+<a href="https://medium.com/@developerstoday99" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="spm999" height="30" width="40" /></a>
 </p>
 
