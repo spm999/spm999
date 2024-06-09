@@ -74,7 +74,8 @@
   <a href="https://postman.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/amazon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" width="40" height="40"/> </a> 
   <a href="https://graphql.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQl" width="40" height="40"/> </a> 
-  <a href="https://websocket.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/download/354553/websocket.svg" alt="WebSocket" width="40" height="40"/> </a> 
+  <a href="https://websocket.org/" target="_blank" rel="noreferrer"> <img src="https://logowiki.net/wp-content/uploads/imgp/WebSocket-Logo-1-5136.gif" alt="WebSocket" width="40" height="40"/> </a> 
+ <!-- <a href="https://websocket.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/download/354553/websocket.svg" alt="WebSocket" width="40" height="40"/> </a> -->
   
 
 
