@@ -75,6 +75,7 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" width="40" height="40"/> </a> 
   <a href="https://graphql.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQl" width="40" height="40"/> </a> 
   <a href="https://websocket.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/download/354553/websocket.svg" alt="WebSocket" width="40" height="40"/> </a> 
+  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> <img src="https://worldvectorlogo.com/download/prisma-2.svg" alt="Prisma" width="40" height="40"/> </a> 
   
 
 
