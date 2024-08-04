@@ -32,7 +32,7 @@
 - :coffee: Coffee lover, turning it into code.<br>
 - 👨‍💻 Visit my portfolio website <b>[🙂](https://suryaportfoliosite.netlify.app/)</b>
 
-- 💬 Ask me about **Web technologies/Andriod Development/Machine Learning/Robotics/Astrophysics** 
+- 💬 Ask me about **Web technologies/Andriod Development/Machine Learning** 
 - ![](https://komarev.com/ghpvc/?username=spm999)
 
 
